@@ -35,11 +35,11 @@ function showMoreInfo($array){
   // print_r( $array[$_GET['selected']] );
   // echo "<br/>";
 
-  echo "<p">.$array[$_GET['selected']];."</p>";
+  // echo "<p">.$array[$_GET['selected']];."</p>";
   
-  echo "<br/>";
+  // echo "<br/>";
   
-  echo "Key:".$_GET['selected'];
+  // echo "Key:".$_GET['selected'];
   
   
 }
