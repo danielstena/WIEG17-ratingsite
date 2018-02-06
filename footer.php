@@ -1,8 +1,8 @@
+
 <footer>
-<hr>
 <div id="footerText">
-    <p id="ft">Copyright Night X productions</p><br>
-<div>
+<?php echo "<h1 id='konstant'> ".namn." </h1>"; ?><br>
+</div>
 </footer>
 
 </body>

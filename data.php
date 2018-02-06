@@ -6,3 +6,5 @@ $filmer = array(
     "9 poäng. Aliens" => "dinosarier", 
     "2 poäng. Fight Club" => "dinosarier" );
     ksort($filmer);
+
+define ("SITE_NAME", "Night X movies");

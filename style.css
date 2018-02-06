@@ -3,7 +3,7 @@ header{
     flex-direction: row;
     justify-content: space-around;
     width:100%;
-
+    background-color: grey;
 }
 header a{
     text-decoration: none;
@@ -15,10 +15,10 @@ footer{
     width: 100%;
     position: fixed;
     bottom: 0px;
+    background-color: grey;
 }
 #footerText{
-    display: flex;
-    flex-direction: center;
+    width: 100%;
 
 }
 #ft{
@@ -32,7 +32,13 @@ footer{
 }
  h1{
     color:red;
-text-align: center;}
+    text-align: center;
+}
+#konstant{
+    color:blue;
+    text-align: center;
+    margin:0px;
+}
 ul{
     list-style: none;
     margin-bottom: 5px;

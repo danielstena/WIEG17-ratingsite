@@ -5,7 +5,7 @@ include "header.php";
  <!-- **Head och header** -->
 <body>
     <div class="wrapper">
-        <?php echo "<h1> ".namn." </h1>"; 
+        <?php echo "<h1 id='konstant'> ".namn." </h1>"; 
         
         ?>
     </div>

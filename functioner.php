@@ -1,5 +1,5 @@
 <?php
-define("namn", "Welcome to a Night X productions!");
+define("namn", "Nu är det ändrat!");
 
 
 

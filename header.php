@@ -10,9 +10,10 @@
 </head>
 
 <header>
+<?php echo "<h1 id='konstant'> ".namn." </h1>"; ?><br>
     <a href="index.php">Hem</a>
     <a href="listan.php">lista</a>
     <a href="kontakt.php">kontakt</a>
 </header>
-<body>
-😱
+
+
