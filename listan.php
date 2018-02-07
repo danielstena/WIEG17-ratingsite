@@ -1,4 +1,5 @@
 <?php 
+    $pageTitle = "Lista";
     include "header.php";
     include "footer.php";
 ?>
